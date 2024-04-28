@@ -25,7 +25,6 @@ if __name__ == '__main__':
         elif name == "pop":
             arr.pop()
         
-
         elif name == "remove":
             data = value[0]
             arr.remove(data)
